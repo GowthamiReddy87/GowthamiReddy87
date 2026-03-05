@@ -21,7 +21,7 @@
 ---
 ##  Connect with me
 - GitHub: https://github.com/GowthamiReddy87
-- email: gowthamireddy@gmail.com
+- email: gowthamireddy1772@gmail.com
 - linkedin: https://www.linkedin.com/in/gowthami-reddy-sirigireddy-51a7a9321
 ---
 ⭐ *Always learning and improving every day*
