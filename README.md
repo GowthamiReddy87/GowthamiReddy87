@@ -9,9 +9,9 @@
 - Spring Boot
 ---
 ##  Projects
-- Java Mini Projects
-- Basic Web Projects
-- More coming soon...
+- Springboot
+- Accessibility-Auditor
+- AgenticAI
 ---
 ##  Skills
 - Java
