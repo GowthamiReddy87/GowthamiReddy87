@@ -1,16 +1,27 @@
-## Hi there 👋
-
-<!--
-**GowthamiReddy87/GowthamiReddy87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi 👋, I'm Gowthami Reddy
+ Aspiring Software Developer  
+ Java Programmer |  DSA Learner  
+ Passionate about coding and problem solving  
+---
+## Currently Learning
+- Java
+- Data Structures & Algorithms
+- Spring Boot
+---
+##  Projects
+- Java Mini Projects
+- Basic Web Projects
+- More coming soon...
+---
+##  Skills
+- Java
+- HTML
+- CSS
+- Git & GitHub
+---
+##  Connect with me
+- GitHub: https://github.com/GowthamiReddy87
+- gowthamireddy@gmail.com
+- https://www.linkedin.com/in/gowthami-reddy-sirigireddy-51a7a9321
+---
+⭐ *Always learning and improving every day*
