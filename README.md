@@ -9,7 +9,6 @@
 - Spring Boot
 ---
 ##  Projects
-- Springboot
 - Accessibility-Auditor
 - AI War Simulator
 ---
