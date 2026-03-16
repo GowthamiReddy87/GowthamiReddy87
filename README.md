@@ -11,7 +11,7 @@
 ##  Projects
 - Springboot
 - Accessibility-Auditor
-- AgenticAI
+- AI War Simulator
 ---
 ##  Skills
 - Java
