@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gowthami Reddy
  Aspiring Software Developer  
- Java Programmer |  DSA Learner  
+ Java Programmer | DSA Learner  
  Passionate about coding and problem solving  
 ---
 ## Currently Learning
