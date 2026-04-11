@@ -5,7 +5,7 @@
 ---
 ## Currently Learning
 - Java
-- Data Structures & Algorithms
+- Data Structures &Algorithms
 - Spring Boot
 ---
 ##  Projects
