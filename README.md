@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gowthami Reddy
+# Hi 👋, I'm GowthamiReddy
  Aspiring Software Developer  
  Java Programmer | DSA Learner  
  Passionate about coding and problem solving  
