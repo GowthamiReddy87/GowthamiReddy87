@@ -9,8 +9,7 @@
 - Spring Boot
 ---
 ##  Projects
-- Accessibility-Auditor
-- AI War Simulator
+- Expense Tracker
 ---
 ##  Skills
 - Java
